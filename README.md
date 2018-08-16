@@ -7,4 +7,4 @@ Using expo to run the app.
 "ios": "expo start --ios"
 ```
 
-If using NPM then changes these values to `npm` perspectively in `package.json` file.
+If using NPM, then change these values to `npm` perspectively in `package.json` file.
